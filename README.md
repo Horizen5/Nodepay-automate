@@ -36,7 +36,7 @@ apt update; apt upgrade -y; apt install git python3 python3-pip -y
 ```
 - 使用Git下载此脚本：
 ```bash
-git clone https://github.com/im-hanzou/nodepay-automate
+git clone https://github.com/Horizen5/Nodepay-automate.git
 ```
 - 安装要求，请确保您在此脚本目录中：
 ```bash
@@ -45,7 +45,7 @@ python3 -m pip install -r requirements.txt
 ### Windows
 git仓库
 ```bash
-git clone https://github.com/im-hanzou/nodepay-automate
+git clone https://github.com/Horizen5/Nodepay-automate.git
 ```
 安装依赖
 ```bash
