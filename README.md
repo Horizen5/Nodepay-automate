@@ -1,6 +1,6 @@
 # Nodepay Automate with Proxies 
 使用代理自动化Nodepay网络。重要！请阅读以下信息：
-- 旧版本不再工作，请使用``runv2.py``！对于Windows用户，请使用[WSL](https://learn.microsoft.com/en-us/windows/wsl/install)
+- 旧版本不再工作，请使用``run.py``！对于Windows用户，请使用[WSL](https://learn.microsoft.com/en-us/windows/wsl/install)
 - 最新的curl_cffi模块（用于模拟chrome131版本）``curl_cffi==0.8.0b7``未从Windows Python库服务器更新。我尝试了模拟chrome110版本和其他版本，但仍然出现错误，稳定的模拟版本是chrome131版本。
 - 该机器人仅支持Linux和[WSL](https://learn.microsoft.com/en-us/windows/wsl/install) Windows，对于Termux，请使用下面的[教程](https://github.com/im-hanzou/nodepay-automate?tab=readme-ov-file#termux)。
 - 该机器人支持多个账户。支持socks和http代理。每个账户使用3个代理。
