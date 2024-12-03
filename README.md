@@ -42,7 +42,15 @@ git clone https://github.com/im-hanzou/nodepay-automate
 ```bash
 python3 -m pip install -r requirements.txt
 ```
-
+### Windows
+git仓库
+```bash
+git clone https://github.com/im-hanzou/nodepay-automate
+```
+安装依赖
+```bash
+pip install -r requirements.txt
+```
 
 # 运行机器人
 - 在```proxies.txt```中替换代理示例为您自己的代理，请仅使用3个代理。如果您运行多个账户，请确保每个账户有3个代理。
